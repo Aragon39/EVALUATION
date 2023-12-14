@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<QUESTION1>QUEL EST L UTILITE DE L ELEMENT ?</QUESTION1>
+<REPONCE1>permet d attiréré l attention du lecteur</REPONCE1>
+
+<QUESTION2>Définir le sématique du web?</QUESTION2>
+<REPONCE2>la sematique est de rendre visible les pages esplorable</REPONCE2>
+
+<QUESTION3>Citez des élément du DOM se référant au contenue textuel d un struture html</QUESTION3>
+<reponce3>DOM:html,head,body</reponce3>
+
+<QUESTION4>Qu’est-ce qu’un Framework css ?</QUESTION4>
+<REPONCE4>est une librairie qu on importe dans le projets</REPONCE4>
+
+<QUESTION5> Quels sont les points communs et les différences entre le Html et le Xml ?</QUESTION5>
+<REPONCE5>html=structure css=mettre en forme une page</REPONCE5>
+
+<QUESTION6>Que contient les éléments head et body ?Quelle est leur relation avec l’objet html ?</QUESTION6>
+<REPONCE6>head contient le titre de la page
+          body contient les element h1,p,
+</REPONCE6>
+
+<QUESTION7>Citez 3 protocoles applicatifs du TCP/IP.</QUESTION7>
+<REPONCE7>http,</REPONCE7>
+
+<QUESTION8>Décrire en quelques lignes le modèle client-serveur.</QUESTION8>
+<REPONCE8></REPONCE8>
+
+<QUESTION9>Comment mettre un commentaire en html5 et en CSS ? </QUESTION9>
+<REPONCE9><!-- VOICI COMMENT FAIRE UN COMMENTAIRE--></REPONCE9>
+
+<QUESTION10> Quel est le rôle du W3C ?</QUESTION10>
+<REPONCE10>Définir les standards technique liée aux cite web</REPONCE10>
